@@ -1,9 +1,0 @@
-# Google Colab / Jupyter notebooks
-*.ipynb text
-*.ipynb linguist-detectable=true
-
-# Ensure GitHub shows Python as primary language
-*.py linguist-language=Python
-
-# Data files used in Colab
-*.csv text
